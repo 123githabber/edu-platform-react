@@ -1,0 +1,15 @@
+КАК ЗАПУСТИТЬ В VS CODE
+========================
+
+1. Откройте папку edu-platform-react в Visual Studio Code.
+2. Откройте Terminal -> New Terminal.
+3. Выполните:
+
+   npm install
+   npm run dev
+
+4. Перейдите по адресу, который покажет Vite (обычно http://localhost:5173).
+
+Для остановки сервера нажмите Ctrl+C.
+
+Если команда npm не найдена, установите Node.js 18+ с https://nodejs.org/
